@@ -1,0 +1,7 @@
+D:\MyDemo\WCF\wcfDemo\wcfLib1\bin\Debug\wcfLib1.dll.config
+D:\MyDemo\WCF\wcfDemo\wcfLib1\bin\Debug\wcfLib1.dll
+D:\MyDemo\WCF\wcfDemo\wcfLib1\bin\Debug\wcfLib1.pdb
+D:\MyDemo\WCF\wcfDemo\wcfLib1\obj\Debug\wcfLib1.dll
+D:\MyDemo\WCF\wcfDemo\wcfLib1\obj\Debug\wcfLib1.pdb
+D:\MyDemo\WCF\wcfDemo\wcfLib1\bin\Debug\Newtonsoft.Json.dll
+D:\MyDemo\WCF\wcfDemo\wcfLib1\obj\Debug\wcfLib1.csprojResolveAssemblyReference.cache

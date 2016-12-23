@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\WcfServiceCannel\bin\Debug\WcfServiceCannel.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceCannel\obj\Debug\WcfServiceCannel.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceCannel\bin\Debug\WcfServiceCannel.exe.config
+D:\MyDemo\WCF\wcfDemo\WcfServiceCannel\bin\Debug\WcfServiceCannel.exe
+D:\MyDemo\WCF\wcfDemo\WcfServiceCannel\obj\Debug\WcfServiceCannel.exe

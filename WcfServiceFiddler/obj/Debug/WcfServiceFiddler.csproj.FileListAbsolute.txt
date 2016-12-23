@@ -1,0 +1,4 @@
+D:\MyDemo\WCF\wcfDemo\WcfServiceFiddler\bin\Debug\WcfServiceFiddler.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceFiddler\obj\Debug\WcfServiceFiddler.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceFiddler\bin\Debug\WcfServiceFiddler.exe
+D:\MyDemo\WCF\wcfDemo\WcfServiceFiddler\obj\Debug\WcfServiceFiddler.exe

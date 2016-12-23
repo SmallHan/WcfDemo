@@ -1,0 +1,6 @@
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\WcfSelfhostingClient\bin\Debug\WcfSelfhostingClient.exe.config
+D:\MyDemo\WCF\wcfDemo\WcfSelfhostingClient\bin\Debug\WcfSelfhostingClient.exe
+D:\MyDemo\WCF\wcfDemo\WcfSelfhostingClient\bin\Debug\WcfSelfhostingClient.pdb
+D:\MyDemo\WCF\wcfDemo\WcfSelfhostingClient\obj\Debug\WcfSelfhostingClient.exe
+D:\MyDemo\WCF\wcfDemo\WcfSelfhostingClient\obj\Debug\WcfSelfhostingClient.pdb

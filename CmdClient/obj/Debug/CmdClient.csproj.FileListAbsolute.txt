@@ -1,0 +1,6 @@
+D:\MyDemo\WCF\wcfDemo\CmdClient\bin\Debug\CmdClient.exe.config
+D:\MyDemo\WCF\wcfDemo\CmdClient\bin\Debug\CmdClient.exe
+D:\MyDemo\WCF\wcfDemo\CmdClient\bin\Debug\CmdClient.pdb
+D:\MyDemo\WCF\wcfDemo\CmdClient\obj\Debug\CmdClient.csprojResolveAssemblyReference.cache
+D:\MyDemo\WCF\wcfDemo\CmdClient\obj\Debug\CmdClient.exe
+D:\MyDemo\WCF\wcfDemo\CmdClient\obj\Debug\CmdClient.pdb

@@ -1,0 +1,6 @@
+D:\MyDemo\WCF\wcfDemo\WCFService\bin\Debug\WCFService.exe.config
+D:\MyDemo\WCF\wcfDemo\WCFService\bin\Debug\WCFService.exe
+D:\MyDemo\WCF\wcfDemo\WCFService\bin\Debug\WCFService.pdb
+D:\MyDemo\WCF\wcfDemo\WCFService\obj\Debug\WCFService.exe
+D:\MyDemo\WCF\wcfDemo\WCFService\obj\Debug\WCFService.pdb
+D:\MyDemo\WCF\wcfDemo\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache

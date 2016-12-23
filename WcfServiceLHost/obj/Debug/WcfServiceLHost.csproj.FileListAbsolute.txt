@@ -1,0 +1,4 @@
+D:\MyDemo\WCF\wcfDemo\WcfServiceLHost\bin\Debug\WcfServiceLHost.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceLHost\obj\Debug\WcfServiceLHost.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceLHost\bin\Debug\WcfServiceLHost.exe
+D:\MyDemo\WCF\wcfDemo\WcfServiceLHost\obj\Debug\WcfServiceLHost.exe

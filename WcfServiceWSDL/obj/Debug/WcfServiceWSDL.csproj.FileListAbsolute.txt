@@ -1,0 +1,4 @@
+D:\MyDemo\WCF\wcfDemo\WcfServiceWSDL\bin\Debug\WcfServiceWSDL.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceWSDL\obj\Debug\WcfServiceWSDL.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServiceWSDL\bin\Debug\WcfServiceWSDL.exe
+D:\MyDemo\WCF\wcfDemo\WcfServiceWSDL\obj\Debug\WcfServiceWSDL.exe

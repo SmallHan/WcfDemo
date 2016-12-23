@@ -1,0 +1,8 @@
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\bin\Debug\WcfServiceCannel.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\bin\Debug\WcfServiceCannel.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

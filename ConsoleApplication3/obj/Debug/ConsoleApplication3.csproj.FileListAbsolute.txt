@@ -1,0 +1,10 @@
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\WcfServiceMessage.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\WcfServiceMessage.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\WcfServiceCannel.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication3\bin\Debug\WcfServiceCannel.pdb

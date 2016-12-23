@@ -1,0 +1,9 @@
+D:\MyDemo\WCF\wcfDemo\winWcf\bin\Debug\winWcf.exe.config
+D:\MyDemo\WCF\wcfDemo\winWcf\bin\Debug\winWcf.exe
+D:\MyDemo\WCF\wcfDemo\winWcf\bin\Debug\winWcf.pdb
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.csprojResolveAssemblyReference.cache
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.Form1.resources
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.Properties.Resources.resources
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.csproj.GenerateResource.Cache
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.exe
+D:\MyDemo\WCF\wcfDemo\winWcf\obj\Debug\winWcf.pdb

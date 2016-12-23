@@ -1,0 +1,6 @@
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\bin\Debug\WcfClientContract.exe.config
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\bin\Debug\WcfClientContract.exe
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\bin\Debug\WcfClientContract.pdb
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\obj\Debug\WcfClientContract.exe
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\obj\Debug\WcfClientContract.pdb
+D:\MyDemo\WCF\wcfDemo\WcfClientContract\obj\Debug\WcfClientContract.csprojResolveAssemblyReference.cache
