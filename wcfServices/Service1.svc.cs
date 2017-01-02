@@ -12,9 +12,9 @@ namespace wcfServices
     // 注意: 为了启动 WCF 测试客户端以测试此服务，请在解决方案资源管理器中选择 Service1.svc 或 Service1.svc.cs，然后开始调试。
     public class Service1 : IService1
     {
-        public string GetData(int value)
+        public string GetData()
         {
-            return string.Format("You entered: {0}", value);
+            return "666";
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)
