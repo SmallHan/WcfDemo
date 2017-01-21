@@ -4,5 +4,3 @@ D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
 D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
 D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
-D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\bin\Debug\WsWcfService.exe
-D:\MyDemo\WCF\wcfDemo\ConsoleApplication5\bin\Debug\WsWcfService.pdb
