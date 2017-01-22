@@ -20,11 +20,15 @@ namespace WcfServicePall
         int nums=0;
         public string Inovke(string msg)
         {
-            Console.WriteLine("当前的nums={0},threading={1},time={2}", ++nums, Thread.CurrentThread.ManagedThreadId, DateTime.Now);
+            Console.WriteLine("当前的nums={0},threading={1},time={2}", ++Test1.num, Thread.CurrentThread.ManagedThreadId, DateTime.Now);
 
             Thread.Sleep(1000 * 5);
 
             return string.Empty;
         }
     }
+     public static class Test1
+     {
+         public static int num=0;
+     }
 }
