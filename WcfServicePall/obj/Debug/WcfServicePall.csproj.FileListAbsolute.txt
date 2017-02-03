@@ -3,4 +3,3 @@ D:\MyDemo\WCF\wcfDemo\WcfServicePall\obj\Debug\WcfServicePall.pdb
 D:\MyDemo\WCF\wcfDemo\WcfServicePall\bin\Debug\WcfServicePall.exe.config
 D:\MyDemo\WCF\wcfDemo\WcfServicePall\bin\Debug\WcfServicePall.exe
 D:\MyDemo\WCF\wcfDemo\WcfServicePall\obj\Debug\WcfServicePall.exe
-D:\MyDemo\WCF\wcfDemo\WcfServicePall\obj\Debug\WcfServicePall.csprojResolveAssemblyReference.cache

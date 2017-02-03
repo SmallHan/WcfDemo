@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\双工服务契约\bin\Debug\双工服务契约.exe.config
+D:\MyDemo\WCF\wcfDemo\双工服务契约\bin\Debug\双工服务契约.exe
+D:\MyDemo\WCF\wcfDemo\双工服务契约\bin\Debug\双工服务契约.pdb
+D:\MyDemo\WCF\wcfDemo\双工服务契约\obj\Debug\双工服务契约.exe
+D:\MyDemo\WCF\wcfDemo\双工服务契约\obj\Debug\双工服务契约.pdb

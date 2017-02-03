@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\MyDemo\WCF\wcfDemo\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

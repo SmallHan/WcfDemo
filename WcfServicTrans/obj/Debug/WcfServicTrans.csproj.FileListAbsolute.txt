@@ -1,0 +1,8 @@
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\bin\Debug\WcfServicTrans.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\bin\Debug\Dapper.dll
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\bin\Debug\Dapper.xml
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\obj\Debug\WcfServicTrans.pdb
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\bin\Debug\WcfServicTrans.exe.config
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\bin\Debug\WcfServicTrans.exe
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\obj\Debug\WcfServicTrans.exe
+D:\MyDemo\WCF\wcfDemo\WcfServicTrans\obj\Debug\WcfServicTrans.csprojResolveAssemblyReference.cache

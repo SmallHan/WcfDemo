@@ -9,6 +9,7 @@ namespace ConsoleApplication6
 {
     class Program
     {
+        static Random r1 = new Random();
         static void Main(string[] args)
         {
             //3个线程去执行
@@ -18,7 +19,10 @@ namespace ConsoleApplication6
         static void Run()
         {
             FlyServiceClient client = new FlyServiceClient();
-            client.Inovke("test");
+            //client.Inovke("test");
+            string strNum = r1.Next(0, 1000).ToString();
+            Console.WriteLine(strNum);
+            client.Invoke1(strNum);
         }
     }
 }

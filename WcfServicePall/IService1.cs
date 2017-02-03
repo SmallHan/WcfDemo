@@ -14,5 +14,9 @@ namespace WcfServicePall
         [OperationContract]
 
         string Inovke(string msg);
+
+        [OperationContract]
+
+        void Invoke1(string msg);
     }
 }

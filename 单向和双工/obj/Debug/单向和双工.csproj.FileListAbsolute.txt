@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\单向和双工\bin\Debug\单向和双工.exe.config
+D:\MyDemo\WCF\wcfDemo\单向和双工\bin\Debug\单向和双工.exe
+D:\MyDemo\WCF\wcfDemo\单向和双工\bin\Debug\单向和双工.pdb
+D:\MyDemo\WCF\wcfDemo\单向和双工\obj\Debug\单向和双工.exe
+D:\MyDemo\WCF\wcfDemo\单向和双工\obj\Debug\单向和双工.pdb

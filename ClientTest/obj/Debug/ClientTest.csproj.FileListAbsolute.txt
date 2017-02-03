@@ -1,0 +1,6 @@
+D:\MyDemo\WCF\wcfDemo\ClientTest\bin\Debug\ClientTest.exe.config
+D:\MyDemo\WCF\wcfDemo\ClientTest\bin\Debug\ClientTest.exe
+D:\MyDemo\WCF\wcfDemo\ClientTest\bin\Debug\ClientTest.pdb
+D:\MyDemo\WCF\wcfDemo\ClientTest\obj\Debug\ClientTest.csprojResolveAssemblyReference.cache
+D:\MyDemo\WCF\wcfDemo\ClientTest\obj\Debug\ClientTest.exe
+D:\MyDemo\WCF\wcfDemo\ClientTest\obj\Debug\ClientTest.pdb

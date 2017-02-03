@@ -26,9 +26,23 @@ namespace WcfServicePall
 
             return string.Empty;
         }
+
+        public void Invoke1(string msg)
+        {
+            Console.WriteLine(msg);
+            Test1.StaticTest(msg);
+        }
     }
      public static class Test1
      {
          public static int num=0;
+
+         public static void StaticTest(string str)
+         {
+             string strNum = str;
+             Console.WriteLine("Tid={0},Str={1}", Thread.CurrentThread.ManagedThreadId, strNum);
+             Thread.Sleep(500);
+             Console.WriteLine("Tid={0},Str={1}", Thread.CurrentThread.ManagedThreadId, strNum);
+         }
      }
 }

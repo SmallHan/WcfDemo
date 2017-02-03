@@ -20,6 +20,12 @@ namespace ConsoleApplication6.ServiceReference1 {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IFlyService/Inovke", ReplyAction="http://tempuri.org/IFlyService/InovkeResponse")]
         System.Threading.Tasks.Task<string> InovkeAsync(string msg);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IFlyService/Invoke1", ReplyAction="http://tempuri.org/IFlyService/Invoke1Response")]
+        void Invoke1(string msg);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IFlyService/Invoke1", ReplyAction="http://tempuri.org/IFlyService/Invoke1Response")]
+        System.Threading.Tasks.Task Invoke1Async(string msg);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -55,6 +61,14 @@ namespace ConsoleApplication6.ServiceReference1 {
         
         public System.Threading.Tasks.Task<string> InovkeAsync(string msg) {
             return base.Channel.InovkeAsync(msg);
+        }
+        
+        public void Invoke1(string msg) {
+            base.Channel.Invoke1(msg);
+        }
+        
+        public System.Threading.Tasks.Task Invoke1Async(string msg) {
+            return base.Channel.Invoke1Async(msg);
         }
     }
 }
