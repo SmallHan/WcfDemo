@@ -13,7 +13,7 @@ namespace 双工服务契约
     {
         public void RegiestForUpdates(string ticket)
         {
-            Console.WriteLine("服务器端:{0}-{1}",DateTime.Now,ticket);
+            Console.WriteLine("服务器端:{0}-{1}",DateTime.Now,ticket);  
             Update bgWorket = new Update();
             // 获取调用当前操作的客户端实例的通道。
             bgWorket.callBack = OperationContext.Current.GetCallbackChannel<IClientCallBack>();
