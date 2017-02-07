@@ -4,28 +4,27 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using System.Threading;
 
 namespace WcfPerSession
 {
     // 注意: 使用“重构”菜单上的“重命名”命令，可以同时更改代码和配置文件中的类名“Service1”。
-    public class Service1 : IService1
-    {
-        public string GetData(int value)
-        {
-            return string.Format("You entered: {0}", value);
-        }
 
-        public CompositeType GetDataUsingDataContract(CompositeType composite)
+    //单实例，多线程
+    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single, ConcurrencyMode = ConcurrencyMode.Single)]
+    public class SocketService : ISocketService
+    {
+         SocketService()
         {
-            if (composite == null)
-            {
-                throw new ArgumentNullException("composite");
-            }
-            if (composite.BoolValue)
-            {
-                composite.StringValue += "Suffix";
-            }
-            return composite;
+            Console.WriteLine("{0} 我是构造函数",DateTime.Now);
+        }
+        
+
+        public double GetPrice(string ticket)
+        {
+            Console.WriteLine("{0}-{1}",DateTime.Now,Thread.CurrentThread.ManagedThreadId);
+            Thread.Sleep(5000);
+            return 94.85;
         }
     }
 }

@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\PerSessionClient\bin\Debug\PerSessionClient.exe.config
+D:\MyDemo\WCF\wcfDemo\PerSessionClient\bin\Debug\PerSessionClient.exe
+D:\MyDemo\WCF\wcfDemo\PerSessionClient\bin\Debug\PerSessionClient.pdb
+D:\MyDemo\WCF\wcfDemo\PerSessionClient\obj\Debug\PerSessionClient.exe
+D:\MyDemo\WCF\wcfDemo\PerSessionClient\obj\Debug\PerSessionClient.pdb

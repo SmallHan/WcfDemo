@@ -1,0 +1,5 @@
+D:\MyDemo\WCF\wcfDemo\WcfPerSession\bin\Debug\WcfPerSession.exe.config
+D:\MyDemo\WCF\wcfDemo\WcfPerSession\bin\Debug\WcfPerSession.exe
+D:\MyDemo\WCF\wcfDemo\WcfPerSession\bin\Debug\WcfPerSession.pdb
+D:\MyDemo\WCF\wcfDemo\WcfPerSession\obj\Debug\WcfPerSession.exe
+D:\MyDemo\WCF\wcfDemo\WcfPerSession\obj\Debug\WcfPerSession.pdb
