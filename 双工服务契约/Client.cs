@@ -16,6 +16,7 @@ namespace 双工服务契约
                 sh.Open();
                 Console.WriteLine("wcf服务开启了");
                 Console.ReadKey();
+
             }
         }
     }
