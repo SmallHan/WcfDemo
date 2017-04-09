@@ -13,6 +13,7 @@ namespace WcfServiceWSDL
     {
         public ResponseMessage Fly(Student stu)
         {
+
             Console.WriteLine("当前Fly方法接受的参数为: ID={0}, Name={1}", stu.ID, stu.Name);
 
             return new ResponseMessage()
