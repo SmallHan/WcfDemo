@@ -16,6 +16,7 @@ namespace 单向和双工
                 sh.Open();
                 Console.WriteLine("wcf服务开启了");
                 Console.ReadKey();
+
             }
         }
     }
