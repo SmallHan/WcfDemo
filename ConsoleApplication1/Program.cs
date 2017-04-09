@@ -16,6 +16,7 @@ namespace ConsoleApplication1
 
             var channel = factory.CreateChannel();
 
+
             var res=channel.Fly(new Student() { 
                 ID=3,
                 Name="小瀚"
