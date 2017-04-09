@@ -16,6 +16,7 @@ namespace ConsoleApplication8
             flyClient.DoBigAnalysisSlow("测试");
             Console.WriteLine(DateTime.Now);
             Console.ReadKey();
+
         }
     }
 }
